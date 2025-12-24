@@ -114,7 +114,7 @@ Sistem ini membandingkan pendekatan **Traditional CNN (Base Model)** yang dibang
 
 ## 📂 Dataset dan Preprocessing
 
-**Sumber Dataset:** [Vehicle Images Dataset (Kaggle)](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)
+**Sumber Dataset:** [Vehicle Images Dataset (Kaggle)](https://www.kaggle.com/datasets/lyensoetanto/vehicle-images-dataset)
 
 Dataset terdiri dari **15.645 gambar** yang terbagi menjadi 7 kelas:
 1.  **Big Truck** (Truk Besar)
